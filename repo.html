@@ -1,0 +1,13 @@
+<div>
+  Issues: {{issues}}
+
+  <div>
+    {{error}}
+  </div>
+
+  <ul>
+    <li ng-repeat="contrib in contributors">
+      <img src={{contrib.avatar_url}} />{{contrib.login}}
+    </li>
+  </ul>
+</div>
