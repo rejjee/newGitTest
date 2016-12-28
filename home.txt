@@ -4,5 +4,3 @@ I'm at the working copy
 
 
 Made a icon for the forum
-
-I'm using the Github UI now.
